@@ -155,6 +155,7 @@ no_google_business_address/*
 business_list*.csv
 *.xlsx
 *.csv
+!sample_search_query.csv
 
 # Credentials
 creds.py
